@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pramudi Srimali</h1>
-<h3 align="center">Software Engineer | .NET Developer</h3>
+<h3 align="center">Full-Stack Developer | ASP.NET | Angular | React</h3>
 
 <p align="center">
   IT graduate from the University of Moratuwa, Sri Lanka.
@@ -41,23 +41,22 @@
 
 ### 🚀 Featured Projects
 
-**1. Employee Survey System**
+**1. E-channeling System**
+- Developing a web application for online medical appointment booking.
+- Backend Build with ASP.NET Core and Entity Framework Core.
+- Frontend Build with Angular.
+- Use SQL Server for data storage.
+
+**2. Employee Survey System**
 - Developed a web application to collect and manage employee information.
 - Backend built with ASP.NET Core 8 and Entity Framework Core.
 - Used SQL Server for data storage.
-
-**2. Vehicle Tracking System**
-- Contributed to backend development for a fuel bowser and vehicle tracking system.
-- Worked on API endpoints and database integration.
 
 **3. Event Management System**
 - Full-stack team project using Angular, ASP.NET Core, and MySQL.
 
 **4. Online Shopping Management System**
 - Team project using React, Spring Boot, Material UI, and MySQL.
-
-**5. E-channeling System**
-- Currently developing an application to support online medical appointment booking.
 
 ### 💼 Internship Experience
 
@@ -70,7 +69,7 @@
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/chasitha-wasantha">
+  <a href="https://www.linkedin.com/in/pramudi-srimali/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pramudi99">
