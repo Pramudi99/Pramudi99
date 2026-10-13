@@ -73,7 +73,7 @@
   <a href="mailto:sripramudi95@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/pramudi-srimali">
+  <a href="https://www.linkedin.com/in/pramudi-srimali">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pramudi99">
