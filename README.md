@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pramudi Srimali</h1>
-<h3 align="center">Full-Stack Developer | ASP.NET | Angular | React</h3>
+<h3 align="center">Full-Stack Developer | ASP.NET | Angular | React | SQL Server</h3>
 
 <p align="center">
   IT graduate from the University of Moratuwa, Sri Lanka.
@@ -21,7 +21,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,c" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,c" alt="Programming languages"/>
 </p>
 
 **Frontend Development**
@@ -66,16 +66,21 @@
 - Worked with APIs, databases, and software testing.
 - Collaborated with the IT team on software development tasks.
 
+
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/pramudi-srimali/">
+  <a href="https://www.linkedin.com/in/pramudi-srimali">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pramudi99">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="mailto:sripramudi95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
